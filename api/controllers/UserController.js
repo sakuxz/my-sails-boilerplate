@@ -8,8 +8,8 @@
 module.exports = {
 	index: async (req, res) => {
 		let newUser = await User.create({
-			email: "fdgfdg",
-			password: 'hfghf'
+			email: "123@456",
+			password: '789'
 		})
 		res.ok({
 			data: newUser
