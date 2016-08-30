@@ -3,6 +3,16 @@
 a [Sails](http://sailsjs.org) application
 > 整合 autoreload + babel (async/await) + sequelize + jade + mocha
 
+### Request Environment
+
+npm version >= 3
+```
+# check npm version
+npm -v 
+# if npm version < 3
+npm install npm -g
+```
+
 ### How to run this app
 
 ```bash
