@@ -6,7 +6,7 @@ a [Sails](http://sailsjs.org) application
 ### Request Environment
 
 npm version >= 3
-```
+```bash
 # check npm version
 npm -v 
 # if npm version < 3
